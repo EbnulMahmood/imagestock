@@ -1,2 +1,2 @@
 # imagestock
-It is a project lke as sutterstock
+It is a project like bd version of sutterstock
