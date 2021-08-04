@@ -3,9 +3,9 @@ It is a project like bd version of sutterstock
 
 
 Push ->
-git status__
-git add .__
-git commit -m "message"__
+git status <br />
+git add . <br />
+git commit -m "message" <br />
 git push origin main
 
 Pull ->
