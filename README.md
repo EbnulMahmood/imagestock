@@ -9,4 +9,7 @@ git commit -m "message" <br />
 git push origin main
 
 Pull -> <br />
-git pull https://github.com/EbnulMahmood/imagestock.git main
+git pull https://github.com/EbnulMahmood/imagestock.git main <br />
+
+Jeeahd : 1. User interface
+
